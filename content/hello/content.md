@@ -1,11 +1,11 @@
 +++
 fragment = "content"
 #disabled = true
-date = "2017-10-05"
+date = "2020-01-05"
 weight = 100
 #background = ""
 
-title = "About Syna"
+title = "Hello world"
 #subtitle = ""
 +++
 

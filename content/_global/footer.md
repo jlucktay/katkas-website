@@ -7,11 +7,11 @@ weight = 1200
 
 menu_title = "Link Title"
 
-[asset]
-  title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
-  url = "#"
+#[asset]
+#  title = "Logo Title"
+#  image = "logo.svg"
+#  text = "Logo Subtext"
+#  url = "#"
 +++
 
 #### Description Title

@@ -11,7 +11,7 @@ weight = 0
   icon = "fab fa-github" # defaults: "fab fa-github"
 
 # Branding options
-[asset]
-  image = "logo.svg"
-  text = "Syna"
+#[asset]
+#  image = "logo.svg"
+#  text = "Syna"
 +++

@@ -47,7 +47,7 @@ lastmod = ["lastmod", ":git", "date"]
   # Optional, global disable switch for fontawesome related files
   # For custom fontawesome js files use the custom.js method
   [params.fontawesome]
-    disabled = false
+    disabled = true
     pro = false
 
   [params.colors]
@@ -114,3 +114,12 @@ lastmod = ["lastmod", ":git", "date"]
   name = "linkedin"
   pre = "fab fa-linkedin-in"
   url = "#"
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "Google Cloud Storage"
+# The Go Cloud Development Kit URL to deploy to. Examples:
+# GCS; see https://gocloud.dev/howto/blob/#gcs
+URL = "gs://www.czechdork.pictures"
